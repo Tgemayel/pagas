@@ -1,6 +1,26 @@
-# Project Title
+## What is Pagas?
 
-Payment System build in Next JS using Stellar, Mongo DB Atlas and Node JS
+Pagas is an online platform that helps creators monetize their talents using Stellar. We make earning Stellar as easy as sharing a link. Its built with Next JS using Stellar and Mongo DB Atlas.
+
+## What it does
+
+Pagas empowers creators to sell products by handling the file distribution and payments. By leveraging Stellars unique features like fee_bump, sellers pay 0% and keep 100% of their sale
+
+## Fully open source
+
+Pagas is a fully open source, built using Node.js & React and designed in Figma.
+
+## Who we are
+
+Pagas is built by three cousins building better tools for the Stellar ecosystem.
+
+* Karin Fernandez
+* Daniel Fernandez
+* Toni Gemayel
+
+## What's next for Pagas
+
+User authentication, analytics, customer management & more.
 
 ## About the project
 
@@ -74,16 +94,7 @@ npm run dev
 Visit http://localhost:4000/checkout (Currently only page created)
 ```
 
-## Built With
-
-- Next JS
-
 ## Deployment
 
-Steps on how to deploy
+Deployments are handled by Vercel.
 
-## Authors
-
-- **Tony Gemayel**
-- **Karin Fernandez**
-- **Daniel Fernandez**
