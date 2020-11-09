@@ -1,0 +1,8 @@
+/* tell PurgeCSS to ignore Tailwind CSS’s base and components classes using comment directive */
+
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;

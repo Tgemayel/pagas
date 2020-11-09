@@ -1,0 +1,27 @@
+.alert-msg {
+  opacity: 0;
+  transform: translateX(18px);
+  animation: test 5000ms ease;
+}
+
+@keyframes test {
+  8% {
+    opacity: 1;
+    transform: translateX(-18px);
+  }
+  16% {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+
+  80% {
+    transform: translateX(0px);
+  }
+  88% {
+    transform: translateX(-18px);
+  }
+  92% {
+    opacity: 1;
+    transform: translateX(-18px);
+  }
+}
